@@ -1,0 +1,39 @@
+1
+00:00:00,240 --> 00:00:02,440
+Welcome to Same's Virtual Tech Garage!
+
+2
+00:00:03,200 --> 00:00:09,540
+This is a secret base where we decode the "why?" hidden in everyday life using VR and science
+
+3
+00:00:10,100 --> 00:00:14,440
+We cover physics, computer science, and the history of science
+
+4
+00:00:14,960 --> 00:00:19,440
+From the rainbow colors of soap bubbles, we explore atoms, earthquakes, and gravity
+
+5
+00:00:19,960 --> 00:00:24,120
+We trace messages from supernova explosions preserved in the deep sea
+
+6
+00:00:24,620 --> 00:00:28,540
+Sorting algorithms that reveal the hidden depths of arranging numbers
+
+7
+00:00:29,140 --> 00:00:31,820
+To the untold stories of great scientists
+
+8
+00:00:32,460 --> 00:00:36,120
+For those who want to see the familiar world from a different angle
+
+9
+00:00:36,540 --> 00:00:38,900
+From everyday wonders to the mysteries of the universe
+
+10
+00:00:39,360 --> 00:00:42,880
+Won't you join us in exploring the fascination of science and technology?

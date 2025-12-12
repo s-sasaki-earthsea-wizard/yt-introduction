@@ -1,0 +1,44 @@
+1
+00:00:00,040 --> 00:00:02,240
+¡Bienvenidos al Garaje Tecnológico Virtual de Same!
+
+2
+00:00:03,020 --> 00:00:05,740
+Aquí exploramos los "¿por qué?" ocultos en la vida cotidiana
+
+3
+00:00:06,360 --> 00:00:09,360
+Una base secreta que descifra misterios con VR y ciencia
+
+4
+00:00:10,260 --> 00:00:14,660
+Cubrimos física, ciencias de la computación e historia de la ciencia
+
+5
+00:00:15,400 --> 00:00:19,920
+Desde los colores del arcoíris en pompas de jabón hasta átomos, terremotos y gravedad
+
+6
+00:00:20,740 --> 00:00:24,940
+Rastreando mensajes de explosiones de supernovas preservados en las profundidades del mar
+
+7
+00:00:25,780 --> 00:00:29,980
+Algoritmos de ordenamiento que revelan la profundidad de organizar números
+
+8
+00:00:30,200 --> 00:00:32,900
+Hasta las historias poco conocidas de grandes científicos
+
+9
+00:00:33,620 --> 00:00:37,280
+Para quienes quieren ver el mundo familiar desde un ángulo diferente
+
+10
+00:00:37,780 --> 00:00:40,120
+Desde las maravillas cotidianas hasta los misterios del universo
+
+11
+00:00:40,620 --> 00:00:44,140
+¿Te unes a explorar la fascinación de la ciencia y la tecnología?
+
